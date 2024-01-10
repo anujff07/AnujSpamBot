@@ -14,7 +14,7 @@
 - [x] Soon Inline Spam `soon`
 
 # Hᴏsᴛɪɴɢ
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=WANT MAKE THIS BOT DM TG : @ANUJ_FF_ID_SELLER">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=WANT+MAKE+THIS+BOT+DM+TG+:+@ANUJ_FF_ID_SELLER">
 </p>
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dominator454/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
